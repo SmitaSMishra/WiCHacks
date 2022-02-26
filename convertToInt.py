@@ -15,4 +15,4 @@ data.RM_save_money = [digital[item] for item in data.RM_save_money]
 data.RM_better_sleep = [digital[item] for item in data.RM_better_sleep]
 data.RM_quality_time = [digital[item] for item in data.RM_quality_time]
 
-data.to_csv("WFH_WFO_dataset_pre.csv")
+data.to_csv("WFH_WFO_dataset_pre.csv", index=False)
