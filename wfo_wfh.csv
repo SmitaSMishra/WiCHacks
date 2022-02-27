@@ -1,208 +1,208 @@
-,ID,Name,Age,Occupation,Gender,Same_ofiice_home_location,kids,RM_save_money,RM_quality_time,RM_better_sleep,calmer_stressed,RM_professional_growth,RM_lazy,RM_productive,digital_connect_sufficient,RM_better_work_life_balance,RM_improved_skillset,RM_job_opportunities,Target
-0,1,Bhavana,"(43.0, 49.0]",Tutor,0,Yes,1,1,1,1,1,5,1,5,1,5,5,Yes,1
-1,2,Harry,"(20.0, 26.0]",Tutor,1,No,0,0,0,0,1,2,2,2,0,3,3,No,1
-2,3,Banditaa,"(49.0, 54.0]",HR,0,Yes,1,1,1,1,1,3,3,4,0,5,3,No,1
-3,4,Neetha,"(26.0, 31.0]",Engineer,0,Yes,0,1,1,0,0,3,4,4,0,4,5,Yes,0
-4,5,Ram,"(26.0, 31.0]",Recruiter,1,Yes,0,0,1,0,0,3,3,5,1,4,2,Yes,1
-5,6,Gaurav,"(26.0, 31.0]",Recruiter,1,No,0,1,1,1,1,3,3,3,0,3,5,Yes,0
-6,7,Sandy,"(20.0, 26.0]",Engineer,1,Yes,0,0,0,0,1,3,4,2,0,2,3,Not sure,1
-7,8,Gina ,"(31.0, 37.0]",Engineer,0,No,0,0,1,0,0,3,4,3,0,3,4,Not sure,0
-8,9,Ray,"(26.0, 31.0]",Engineer,1,No,0,1,1,1,0,2,4,3,0,2,4,Not sure,0
-9,10,Ganika,"(26.0, 31.0]",Recruiter,0,No,0,1,1,1,1,3,2,4,0,4,3,Not sure,1
-10,11,Sheetal,"(26.0, 31.0]",Engineer,0,Yes,0,1,1,0,0,4,4,4,0,4,4,Yes,0
-11,12,Abbas,"(20.0, 26.0]",Engineer,1,No,0,1,1,1,1,4,3,4,0,3,4,Yes,1
-12,13,Ishanvi ,"(26.0, 31.0]",Business,0,No,0,1,1,1,1,1,2,3,1,5,3,Yes,1
-13,14,Ira,"(20.0, 26.0]",Business,0,No,0,1,0,0,0,4,4,3,0,3,3,Not sure,0
-14,15,Sameera ,"(20.0, 26.0]",Business,0,Yes,0,1,1,0,0,4,4,4,0,4,4,Yes,0
-15,16,Ryan,"(26.0, 31.0]",Engineer,1,No,0,0,0,1,0,3,3,4,0,3,3,Yes,1
-16,17,Shahid,"(20.0, 26.0]",Recruiter,1,No,0,1,1,1,1,4,3,2,0,3,3,Not sure,0
-17,18,Aadvik ,"(20.0, 26.0]",Business,1,No,0,0,1,0,0,1,5,2,0,3,5,Yes,0
-18,19,Priya,"(43.0, 49.0]",Tutor,0,No,1,0,0,0,0,4,1,3,0,4,3,No,0
-19,20,Alok,"(20.0, 26.0]",Marketing ,1,Yes,0,1,0,0,0,4,3,4,1,2,5,Yes,1
-20,21,Ashvik ,"(43.0, 49.0]",Marketing ,1,Yes,1,0,1,0,0,2,1,3,0,3,2,No,0
-21,22,Kiara,"(26.0, 31.0]",Engineer,0,Yes,0,1,1,1,0,5,5,1,0,1,2,Not sure,0
-22,23,Sangeetha,"(37.0, 43.0]",Tutor,0,No,1,1,1,1,0,3,2,4,1,3,4,No,0
-23,24,Kabir ,"(26.0, 31.0]",Manager,1,Yes,0,0,0,0,0,2,4,3,0,2,5,Not sure,0
-24,25,Pari,"(20.0, 26.0]",Recruiter,1,No,0,1,1,1,1,3,3,4,1,4,4,No,1
-25,26,Anu,"(37.0, 43.0]",Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
-26,27,Sujitha,"(31.0, 37.0]",Engineer,0,Yes,1,1,1,1,1,4,1,5,1,3,3,Not sure,1
-27,28,Sathyaraman,"(26.0, 31.0]",HR,1,Yes,0,1,1,0,0,2,4,5,1,4,4,Not sure,0
-28,29,Shoba,"(31.0, 37.0]",Tutor,0,Yes,1,1,1,1,1,4,3,3,0,1,1,Not sure,0
-29,30,Anisha,"(20.0, 26.0]",Manager,0,No,0,1,0,0,0,4,3,3,1,3,1,Not sure,0
-30,31,Lekha,"(20.0, 26.0]",Marketing ,0,Yes,0,1,1,1,1,3,1,5,0,4,3,Not sure,1
-31,32,Charvik,"(20.0, 26.0]",HR,1,No,0,1,1,0,0,2,4,3,0,5,3,Yes,0
-32,33,Darsh,"(26.0, 31.0]",Manager,1,No,0,0,0,0,0,5,1,3,1,1,3,Yes,1
-33,34,Dhanya,"(26.0, 31.0]",Manager,0,No,0,1,0,0,0,3,5,5,1,1,4,Not sure,0
-34,35,Shilpa,"(20.0, 26.0]",HR,0,Yes,0,1,1,1,1,1,1,5,1,5,4,Not sure,1
-35,36,Laksh,"(20.0, 26.0]",Marketing ,1,No,0,1,1,1,1,3,4,3,0,3,2,Not sure,0
-36,37,Manan ,"(20.0, 26.0]",Recruiter,1,No,0,1,0,0,0,3,5,3,0,3,4,Not sure,0
-37,38,Shubam,"(20.0, 26.0]",Engineer,1,Yes,0,0,0,0,1,3,4,2,0,2,3,Not sure,1
-38,39,Ishaan,"(20.0, 26.0]",Manager,1,No,0,1,0,0,0,5,3,3,0,1,2,Not sure,0
-39,40,Kansha,"(26.0, 31.0]",HR,0,No,0,1,1,1,1,3,3,3,1,4,4,Yes,1
-40,41,Diya,"(26.0, 31.0]",Manager,0,No,1,1,0,0,0,4,5,4,1,2,4,Yes,1
-41,42,Rakesh,"(26.0, 31.0]",Engineer,1,No,0,0,0,0,0,3,4,2,1,1,4,Yes,0
-42,43,Vihaan,"(26.0, 31.0]",HR,1,No,0,0,0,1,0,2,1,2,1,1,5,No,0
-43,44,Sumaya,"(20.0, 26.0]",Recruiter,0,Yes,0,1,1,1,0,3,4,4,0,2,3,Not sure,0
-44,45,Aahan ,"(20.0, 26.0]",Manager,1,No,0,1,1,0,0,3,5,4,1,2,3,Not sure,0
-45,46,Aalia,"(20.0, 26.0]",Engineer,0,Yes,0,1,1,1,1,3,4,4,1,3,4,Not sure,1
-46,47,David,"(49.0, 54.0]",Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
-47,48,Ramya,"(20.0, 26.0]",Business,0,No,0,1,0,0,0,4,4,4,1,1,4,Yes,0
-48,49,Taarush ,"(20.0, 26.0]",Engineer,1,No,0,0,0,0,0,4,4,2,0,2,2,Not sure,0
-49,50,Pavita,"(26.0, 31.0]",Manager,0,Yes,0,1,1,1,1,3,3,5,0,3,4,No,0
-50,51,Samya,"(49.0, 54.0]",HR,0,Yes,1,1,1,1,1,2,3,4,0,4,3,Not sure,1
-51,52,Linda,"(37.0, 43.0]",Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
-52,53,Prisha ,"(26.0, 31.0]",Business,0,Yes,1,1,1,0,0,2,4,3,1,2,3,Yes,0
-53,54,Vinod,"(20.0, 26.0]",Marketing ,1,Yes,0,0,0,0,0,4,5,3,0,2,3,Yes,0
-54,55,Jake,"(49.0, 54.0]",Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
-55,56,Aamya ,"(20.0, 26.0]",Marketing ,0,Yes,0,1,1,1,1,1,1,5,1,5,4,Not sure,1
-56,57,Chaali ,"(37.0, 43.0]",Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
-57,58,Chetana,"(26.0, 31.0]",Engineer,0,Yes,1,1,1,0,0,2,3,3,1,4,5,Yes,1
-58,59,Amy,"(20.0, 26.0]",Tutor,1,No,0,0,0,0,1,3,3,3,0,3,3,No,1
-59,60,Pheobe,"(20.0, 26.0]",Engineer,0,Yes,0,1,1,0,0,3,2,4,0,3,5,Yes,0
-60,61,Ross,"(26.0, 31.0]",Marketing ,1,No,0,1,1,1,0,3,4,4,1,4,5,Yes,1
-61,62,Tonny,"(26.0, 31.0]",Engineer,1,No,0,1,0,1,0,3,3,3,1,4,3,Not sure,0
-62,63,Niali,"(20.0, 26.0]",HR,0,No,1,1,0,0,0,5,3,5,1,1,3,No,0
-63,64,Luke,"(26.0, 31.0]",Manager,1,Yes,0,0,0,0,0,2,4,3,0,2,5,Not sure,0
-64,65,Hiya,"(31.0, 37.0]",Engineer,0,Yes,1,1,1,1,1,4,1,5,1,3,3,Not sure,1
-65,66,Mathew,"(49.0, 54.0]",Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
-66,67,John,"(26.0, 31.0]",Marketing ,1,Yes,0,1,1,0,0,4,4,4,0,4,3,Not sure,0
-67,68,Sitaa,"(20.0, 26.0]",Marketing ,0,No,1,1,0,0,0,5,3,5,1,1,3,No,0
-68,69,Anaisha,"(20.0, 26.0]",Tutor,0,No,0,1,1,1,1,3,3,4,0,2,3,No,0
-69,70,Rita,"(31.0, 37.0]",Tutor,0,Yes,1,1,1,1,1,4,3,3,0,1,1,Not sure,0
-70,71,Shasha,"(20.0, 26.0]",Manager,0,No,0,1,0,0,0,4,3,3,1,3,1,Not sure,0
-71,72,supraja,"(37.0, 43.0]",Tutor,0,No,1,1,1,1,0,3,2,4,1,3,4,No,0
-72,73,Samuel,"(26.0, 31.0]",Engineer,1,No,0,1,1,1,0,2,4,3,0,2,4,Not sure,0
-73,74,Penny,"(26.0, 31.0]",HR,0,Yes,1,1,1,1,1,3,3,4,0,5,3,No,1
-74,75,Sam,"(26.0, 31.0]",Recruiter,1,Yes,0,0,1,0,0,3,3,5,1,4,2,Yes,1
-75,76,Rahul,"(26.0, 31.0]",Recruiter,1,No,0,1,1,1,1,3,3,3,0,3,5,Yes,0
-76,77,Sandy,"(20.0, 26.0]",Engineer,1,Yes,0,0,0,0,1,3,4,2,0,2,3,Not sure,1
-77,78,Ginny,"(31.0, 37.0]",Engineer,0,No,0,0,1,0,0,3,4,3,0,3,4,Not sure,0
-78,79,Daisy,"(43.0, 49.0]",Tutor,0,No,1,0,0,0,0,4,1,3,0,4,3,No,0
-79,80,Pretti,"(20.0, 26.0]",Recruiter,0,No,0,1,1,1,1,3,2,4,0,4,3,Not sure,1
-80,81,Sheetal,"(26.0, 31.0]",Engineer,0,Yes,0,1,1,0,0,4,4,4,0,4,4,Yes,0
-81,82,Saif,"(20.0, 26.0]",Engineer,1,No,0,1,1,1,1,4,3,4,0,3,4,Yes,1
-82,83,Teena,"(26.0, 31.0]",Business,0,No,0,1,1,1,1,1,2,3,1,5,3,Yes,1
-83,84,Ira,"(26.0, 31.0]",Recruiter,0,No,0,1,0,0,0,4,4,3,0,3,3,Not sure,0
-84,85,Sameera ,"(20.0, 26.0]",Business,0,Yes,0,1,1,0,0,4,4,4,0,4,4,Yes,0
-85,86,Asthon,"(26.0, 31.0]",Engineer,1,No,0,0,0,1,0,3,3,4,0,3,3,Yes,1
-86,87,Shahid,"(20.0, 26.0]",Recruiter,1,No,0,1,1,1,1,4,3,2,0,3,3,Not sure,0
-87,88,Aaryan,"(20.0, 26.0]",Business,1,No,0,0,1,0,0,1,5,2,0,3,5,Yes,0
-88,89,Namratha,"(20.0, 26.0]",Engineer,0,Yes,0,1,1,0,0,3,4,4,0,4,5,Yes,0
-89,90,Surya,"(26.0, 31.0]",Marketing ,1,Yes,0,1,0,0,0,4,3,4,1,2,5,Yes,1
-90,91,Ashvik ,"(31.0, 37.0]",Marketing ,1,Yes,1,0,1,0,0,2,1,3,0,3,2,No,0
-91,92,Kiya,"(26.0, 31.0]",Engineer,0,Yes,0,1,1,1,0,5,5,1,0,1,2,Not sure,0
-92,93,Larry,"(20.0, 26.0]",Tutor,1,No,0,0,0,0,1,2,2,2,0,3,3,No,1
-93,94,Singh ,"(26.0, 31.0]",Manager,1,Yes,0,0,0,0,0,2,4,3,0,2,5,Not sure,0
-94,95,Pari,"(26.0, 31.0]",Manager,1,No,0,1,1,1,1,3,3,4,1,4,4,No,1
-95,96,Aachal,"(37.0, 43.0]",Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
-96,97,Sujitha,"(31.0, 37.0]",Engineer,0,Yes,1,1,1,1,1,4,1,5,1,3,3,Not sure,1
-97,98,Sathyaraman,"(26.0, 31.0]",HR,1,Yes,0,1,1,0,0,2,4,5,1,4,4,Not sure,0
-98,99,Pinky,"(43.0, 49.0]",Tutor,0,Yes,1,1,1,1,1,5,1,5,1,5,5,Yes,1
-99,100,Lori,"(20.0, 26.0]",Marketing ,0,Yes,0,1,1,1,1,3,1,5,0,4,3,Not sure,1
-100,101,Monty,"(26.0, 31.0]",HR,1,No,0,1,1,0,0,2,4,3,0,5,3,Yes,0
-101,102,Darshan,"(20.0, 26.0]",Manager,1,No,0,0,0,0,0,5,1,3,1,1,3,Yes,1
-102,103,Sushmita,"(26.0, 31.0]",Manager,0,No,0,1,0,0,0,3,5,5,1,1,4,Not sure,0
-103,104,Shilpa,"(20.0, 26.0]",HR,0,Yes,0,1,1,1,1,1,1,5,1,5,4,Not sure,1
-104,105,Bhuv ,"(20.0, 26.0]",Marketing ,1,No,0,1,1,1,1,3,4,3,0,3,2,Not sure,0
-105,106,Ranjith,"(20.0, 26.0]",Recruiter,1,No,0,1,0,0,0,3,5,3,0,3,4,Not sure,0
-106,107,Shubam,"(20.0, 26.0]",Engineer,1,Yes,0,0,0,0,1,3,4,2,0,2,3,Not sure,1
-107,108,Ivaan,"(26.0, 31.0]",Manager,1,No,0,1,0,0,0,5,3,3,0,1,2,Not sure,0
-108,109,Akila,"(26.0, 31.0]",HR,0,No,0,1,1,1,1,3,3,3,1,4,4,Yes,1
-109,110,Rachel,"(26.0, 31.0]",Manager,0,No,1,1,0,0,0,4,5,4,1,2,4,Yes,1
-110,111,Ramesh,"(26.0, 31.0]",Engineer,1,No,0,0,0,0,0,3,4,2,1,1,4,Yes,0
-111,112,Vihaan,"(26.0, 31.0]",HR,1,No,0,0,0,1,0,2,1,2,1,1,5,No,0
-112,113,Sumaya,"(20.0, 26.0]",Recruiter,0,Yes,0,1,1,1,0,3,4,4,0,2,3,Not sure,0
-113,114,Amog,"(20.0, 26.0]",Manager,1,No,0,1,1,0,0,3,5,4,1,2,3,Not sure,0
-114,115,Anjita,"(20.0, 26.0]",Engineer,0,Yes,0,1,1,1,1,3,4,4,1,3,4,Not sure,1
-115,116,Sam,"(49.0, 54.0]",Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
-116,117,Raina,"(20.0, 26.0]",Business,0,No,0,1,0,0,0,4,4,4,1,1,4,Yes,0
-117,118,Taarush ,"(20.0, 26.0]",Engineer,1,No,0,0,0,0,0,4,4,2,0,2,2,Not sure,0
-118,119,Puri,"(26.0, 31.0]",Manager,0,Yes,0,1,1,1,1,3,3,5,0,3,4,No,0
-119,120,Samya,"(49.0, 54.0]",HR,0,Yes,1,1,1,1,1,2,3,4,0,4,3,Not sure,1
-120,121,Aarya,"(37.0, 43.0]",Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
-121,122,Renuka,"(26.0, 31.0]",Business,0,Yes,1,1,1,0,0,2,4,3,1,2,3,Yes,0
-122,123,Viraj ,"(20.0, 26.0]",Marketing ,1,Yes,0,0,0,0,0,4,5,3,0,2,3,Yes,0
-123,124,Jacob,"(49.0, 54.0]",Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
-124,125,Kakshi,"(20.0, 26.0]",Marketing ,0,Yes,0,1,1,1,1,1,1,5,1,5,4,Not sure,1
-125,126,Chaali ,"(26.0, 31.0]",Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
-126,127,Chandana,"(26.0, 31.0]",Engineer,0,Yes,1,1,1,0,0,2,3,3,1,4,5,Yes,1
-127,128,Ammy,"(20.0, 26.0]",Tutor,1,No,0,0,0,0,1,3,3,3,0,3,3,No,1
-128,129,Jill,"(26.0, 31.0]",Engineer,0,Yes,0,1,1,0,0,3,2,4,0,3,5,Yes,0
-129,130,Daniel,"(26.0, 31.0]",Marketing ,1,No,0,1,1,1,0,3,4,4,1,4,5,Yes,1
-130,131,Tim,"(26.0, 31.0]",Engineer,1,No,0,1,0,1,0,3,3,3,1,4,3,Not sure,0
-131,132,Roopa,"(26.0, 31.0]",HR,0,yes,1,1,0,0,0,5,3,5,1,1,3,No,0
-132,133,Harsh,"(26.0, 31.0]",Manager,1,Yes,0,0,0,0,0,2,4,3,0,2,5,Not sure,0
-133,134,Pooja,"(31.0, 37.0]",Engineer,0,Yes,1,1,1,1,1,4,1,5,1,3,3,Not sure,1
-134,135,Mark,"(49.0, 54.0]",Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
-135,136,Joseph,"(20.0, 26.0]",Marketing ,1,Yes,0,1,1,0,0,4,4,4,0,4,3,Not sure,0
-136,137,Sitaa,"(20.0, 26.0]",Marketing ,0,No,1,1,0,0,0,5,3,5,1,1,3,No,0
-137,138,Anmol,"(20.0, 26.0]",Tutor,0,No,0,1,1,1,1,3,3,4,0,2,3,No,0
-138,139,Isha,"(20.0, 26.0]",Business,0,No,0,1,0,0,0,4,4,3,0,3,3,Not sure,0
-139,140,Sammya,"(31.0, 37.0]",Engineer,0,No,0,0,1,0,0,3,4,3,0,3,4,Not sure,0
-140,141,Rathan,"(26.0, 31.0]",Recruiter,1,Yes,0,0,1,0,0,3,3,5,1,4,2,Yes,1
-141,142,Kareena,"(43.0, 49.0]",Tutor,0,Yes,1,1,1,1,1,5,1,5,1,5,5,Yes,1
-142,143,Hari,"(20.0, 26.0]",Tutor,1,No,0,0,0,0,1,2,2,2,0,3,3,No,1
-143,144,Anushula,"(49.0, 54.0]",HR,0,Yes,1,1,1,1,1,3,3,4,0,5,3,No,1
-144,145,Nametha,"(26.0, 31.0]",Engineer,0,Yes,0,1,1,0,0,3,4,4,0,4,5,Yes,0
-145,146,Raghu,"(20.0, 26.0]",Marketing ,1,Yes,0,0,0,0,0,4,5,3,0,2,3,Yes,0
-146,147,Rahul,"(37.0, 43.0]",HR,1,No,0,1,1,1,1,3,3,3,0,3,5,Yes,0
-147,148,Sandy,"(20.0, 26.0]",Engineer,1,Yes,0,0,0,0,1,3,4,2,0,2,3,Not sure,1
-148,149,Rayor,"(20.0, 26.0]",Engineer,1,No,0,1,1,1,0,2,4,3,0,2,4,Not sure,0
-149,150,Crystal,"(26.0, 31.0]",Recruiter,0,No,0,1,1,1,1,3,2,4,0,4,3,Not sure,1
-150,151,Sheetal,"(26.0, 31.0]",Engineer,0,Yes,0,1,1,0,0,4,4,4,0,4,4,Yes,0
-151,152,Ali,"(20.0, 26.0]",Engineer,1,No,0,1,1,1,1,4,3,4,0,3,4,Yes,1
-152,153,Rishabh,"(26.0, 31.0]",Business,1,No,0,1,1,1,1,1,2,3,1,5,3,Yes,1
-153,154,Sid,"(26.0, 31.0]",Engineer,1,No,0,0,0,1,0,3,3,4,0,3,3,Yes,1
-154,155,Shahid,"(20.0, 26.0]",Recruiter,1,No,0,1,1,1,1,4,3,2,0,3,3,Not sure,0
-155,156,Khan,"(20.0, 26.0]",Business,1,No,0,0,1,0,0,1,5,2,0,3,5,Yes,0
-156,157,Shelly,"(43.0, 49.0]",Tutor,0,No,1,0,0,0,0,4,1,3,0,4,3,No,0
-157,158,Surya,"(20.0, 26.0]",Marketing ,1,Yes,0,1,0,0,0,4,3,4,1,2,5,Yes,1
-158,159,Saif,"(43.0, 49.0]",Marketing ,1,Yes,1,0,1,0,0,2,1,3,0,3,2,No,0
-159,160,Kashmira,"(26.0, 31.0]",Engineer,0,Yes,0,1,1,1,0,5,5,1,0,1,2,Not sure,0
-160,161,Sangeetha,"(37.0, 43.0]",Tutor,0,No,1,1,1,1,0,3,2,4,1,3,4,No,0
-161,162,Jorden,"(26.0, 31.0]",Manager,1,Yes,0,0,0,0,0,2,4,3,0,2,5,Not sure,0
-162,163,Mala,"(26.0, 31.0]",Manager,1,No,0,1,1,1,1,3,3,4,1,4,4,No,1
-163,164,neha,"(26.0, 31.0]",Manager,0,Yes,0,1,1,1,1,3,3,5,0,3,4,No,0
-164,165,susan,"(49.0, 54.0]",HR,0,Yes,1,1,1,1,1,2,3,4,0,4,3,Not sure,1
-165,166,Priyanka,"(37.0, 43.0]",Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
-166,167,Deepika,"(26.0, 31.0]",Business,0,Yes,1,1,1,0,0,2,4,3,1,2,3,Yes,0
-167,168,Sameera ,"(20.0, 26.0]",Business,0,Yes,0,1,1,0,0,4,4,4,0,4,4,Yes,0
-168,169,Lekha,"(26.0, 31.0]",HR,0,Yes,0,1,1,1,1,3,1,5,0,4,3,Not sure,1
-169,170,Davis,"(20.0, 26.0]",HR,1,No,0,1,1,0,0,2,4,3,0,5,3,Yes,0
-170,171,Abhishek,"(26.0, 31.0]",Manager,1,No,0,0,0,0,0,5,1,3,1,1,3,Yes,1
-171,172,Sia,"(26.0, 31.0]",Manager,0,No,0,1,0,0,0,3,5,5,1,1,4,Not sure,0
-172,173,Shilpa,"(20.0, 26.0]",HR,0,Yes,0,1,1,1,1,1,1,5,1,5,4,Not sure,1
-173,174,Braddy,"(20.0, 26.0]",Marketing ,1,No,0,1,1,1,1,3,4,3,0,3,2,Not sure,0
-174,175,Keshew,"(20.0, 26.0]",Recruiter,1,No,0,1,0,0,0,3,5,3,0,3,4,Not sure,0
-175,176,Shubam,"(20.0, 26.0]",Engineer,1,Yes,0,0,0,0,1,3,4,2,0,2,3,Not sure,1
-176,177,Rishi,"(26.0, 31.0]",Manager,1,No,0,1,0,0,0,5,3,3,0,1,2,Not sure,0
-177,178,Aakansha,"(26.0, 31.0]",HR,0,No,0,1,1,1,1,3,3,3,1,4,4,Yes,1
-178,179,Monica,"(26.0, 31.0]",Manager,0,No,1,1,0,0,0,4,5,4,1,2,4,Yes,1
-179,180,Suresh,"(26.0, 31.0]",Engineer,1,No,0,0,0,0,0,3,4,2,1,1,4,Yes,0
-180,181,Vishal,"(26.0, 31.0]",HR,1,No,0,0,0,1,0,2,1,2,1,1,5,No,0
-181,182,Sumaya,"(20.0, 26.0]",Recruiter,0,Yes,0,1,1,1,0,3,4,4,0,2,3,Not sure,0
-182,183,Asim,"(20.0, 26.0]",Manager,1,No,0,1,1,0,0,3,5,4,1,2,3,Not sure,0
-183,184,Anita,"(20.0, 26.0]",Engineer,0,Yes,0,1,1,1,1,3,4,4,1,3,4,Not sure,1
-184,185,David,"(54.0, 60.0]",Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
-185,186,Sanjana,"(20.0, 26.0]",Business,0,No,0,1,0,0,0,4,4,4,1,1,4,Yes,0
-186,187,Raagiv,"(20.0, 26.0]",Engineer,1,No,0,0,0,0,0,4,4,2,0,2,2,Not sure,0
-187,188,Amala,"(37.0, 43.0]",Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
-188,189,Sujitha,"(31.0, 37.0]",Engineer,0,Yes,1,1,1,1,1,4,1,5,1,3,3,Not sure,1
-189,190,Rowling,"(26.0, 31.0]",HR,1,Yes,0,1,1,0,0,2,4,5,1,4,4,Not sure,0
-190,191,Shoba,"(31.0, 37.0]",Tutor,0,Yes,1,1,1,1,1,4,3,3,0,1,1,Not sure,0
-191,192,Rain,"(20.0, 26.0]",Manager,0,No,0,1,0,0,0,4,3,3,1,3,1,Not sure,0
-192,193,Ranveer,"(49.0, 54.0]",Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
-193,194,Lokiya,"(20.0, 26.0]",Marketing ,0,Yes,0,1,1,1,1,1,1,5,1,5,4,Not sure,1
-194,195,Charitha,"(37.0, 43.0]",Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
-195,196,Maria,"(26.0, 31.0]",Engineer,0,Yes,1,1,1,0,0,2,3,3,1,4,5,Yes,1
-196,197,Jhanvi,"(20.0, 26.0]",Tutor,1,No,0,0,0,0,1,3,3,3,0,3,3,No,1
-197,198,Mandana,"(26.0, 31.0]",Engineer,0,Yes,0,1,1,0,0,3,2,4,0,3,5,Yes,0
-198,199,Chandler,"(26.0, 31.0]",Marketing ,1,No,0,1,1,1,0,3,4,4,1,4,5,Yes,1
-199,200,Ranvijay,"(26.0, 31.0]",Engineer,1,No,0,1,0,1,0,3,3,3,1,4,3,Not sure,0
-200,201,Rekha,"(20.0, 26.0]",HR,0,No,1,1,0,0,0,5,3,5,1,1,3,No,0
-201,202,Louis,"(26.0, 31.0]",Manager,1,Yes,0,0,0,0,0,2,4,3,0,2,5,Not sure,0
-202,203,Nandini,"(31.0, 37.0]",Engineer,0,Yes,1,1,1,1,1,4,1,5,1,3,3,Not sure,1
-203,204,Matt,"(49.0, 54.0]",Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
-204,205,Rithik,"(20.0, 26.0]",Marketing ,1,Yes,0,1,1,0,0,4,4,4,0,4,3,Not sure,0
-205,206,Radha,"(20.0, 26.0]",Marketing ,0,No,1,1,0,0,0,5,3,5,1,1,3,No,0
-206,207,Anaisha,"(20.0, 26.0]",Tutor,0,No,0,1,1,1,1,3,3,4,0,2,3,No,0
+ID,Name,Age,Occupation,Gender,Same_ofiice_home_location,kids,RM_save_money,RM_quality_time,RM_better_sleep,calmer_stressed,RM_professional_growth,RM_lazy,RM_productive,digital_connect_sufficient,RM_better_work_life_balance,RM_improved_skillset,RM_job_opportunities,Target
+1,Bhavana,40,Tutor,0,Yes,1,1,1,1,1,5,1,5,1,5,5,Yes,1
+2,Harry,24,Tutor,1,No,0,0,0,0,1,2,2,2,0,3,3,No,1
+3,Banditaa,48,HR,0,Yes,1,1,1,1,1,3,3,4,0,5,3,No,1
+4,Neetha,24,Engineer,0,Yes,0,1,1,0,0,3,4,4,0,4,5,Yes,0
+5,Ram,24,Recruiter,1,Yes,0,0,1,0,0,3,3,5,1,4,2,Yes,1
+6,Gaurav,24,Recruiter,1,No,0,1,1,1,1,3,3,3,0,3,5,Yes,0
+7,Sandy,24,Engineer,1,Yes,0,0,0,0,1,3,4,2,0,2,3,Not sure,1
+8,Gina ,32,Engineer,0,No,0,0,1,0,0,3,4,3,0,3,4,Not sure,0
+9,Ray,24,Engineer,1,No,0,1,1,1,0,2,4,3,0,2,4,Not sure,0
+10,Ganika,24,Recruiter,0,No,0,1,1,1,1,3,2,4,0,4,3,Not sure,1
+11,Sheetal,24,Engineer,0,Yes,0,1,1,0,0,4,4,4,0,4,4,Yes,0
+12,Abbas,24,Engineer,1,No,0,1,1,1,1,4,3,4,0,3,4,Yes,1
+13,Ishanvi ,24,Business,0,No,0,1,1,1,1,1,2,3,1,5,3,Yes,1
+14,Ira,24,Business,0,No,0,1,0,0,0,4,4,3,0,3,3,Not sure,0
+15,Sameera ,24,Business,0,Yes,0,1,1,0,0,4,4,4,0,4,4,Yes,0
+16,Ryan,24,Engineer,1,No,0,0,0,1,0,3,3,4,0,3,3,Yes,1
+17,Shahid,24,Recruiter,1,No,0,1,1,1,1,4,3,2,0,3,3,Not sure,0
+18,Aadvik ,24,Business,1,No,0,0,1,0,0,1,5,2,0,3,5,Yes,0
+19,Priya,40,Tutor,0,No,1,0,0,0,0,4,1,3,0,4,3,No,0
+20,Alok,24,Marketing ,1,Yes,0,1,0,0,0,4,3,4,1,2,5,Yes,1
+21,Ashvik ,40,Marketing ,1,Yes,1,0,1,0,0,2,1,3,0,3,2,No,0
+22,Kiara,24,Engineer,0,Yes,0,1,1,1,0,5,5,1,0,1,2,Not sure,0
+23,Sangeetha,40,Tutor,0,No,1,1,1,1,0,3,2,4,1,3,4,No,0
+24,Kabir ,24,Manager,1,Yes,0,0,0,0,0,2,4,3,0,2,5,Not sure,0
+25,Pari,16,Recruiter,1,No,0,1,1,1,1,3,3,4,1,4,4,No,1
+26,Anu,40,Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
+27,Sujitha,32,Engineer,0,Yes,1,1,1,1,1,4,1,5,1,3,3,Not sure,1
+28,Sathyaraman,24,HR,1,Yes,0,1,1,0,0,2,4,5,1,4,4,Not sure,0
+29,Shoba,32,Tutor,0,Yes,1,1,1,1,1,4,3,3,0,1,1,Not sure,0
+30,Anisha,24,Manager,0,No,0,1,0,0,0,4,3,3,1,3,1,Not sure,0
+31,Lekha,24,Marketing ,0,Yes,0,1,1,1,1,3,1,5,0,4,3,Not sure,1
+32,Charvik,16,HR,1,No,0,1,1,0,0,2,4,3,0,5,3,Yes,0
+33,Darsh,24,Manager,1,No,0,0,0,0,0,5,1,3,1,1,3,Yes,1
+34,Dhanya,24,Manager,0,No,0,1,0,0,0,3,5,5,1,1,4,Not sure,0
+35,Shilpa,24,HR,0,Yes,0,1,1,1,1,1,1,5,1,5,4,Not sure,1
+36,Laksh,16,Marketing ,1,No,0,1,1,1,1,3,4,3,0,3,2,Not sure,0
+37,Manan ,24,Recruiter,1,No,0,1,0,0,0,3,5,3,0,3,4,Not sure,0
+38,Shubam,24,Engineer,1,Yes,0,0,0,0,1,3,4,2,0,2,3,Not sure,1
+39,Ishaan,24,Manager,1,No,0,1,0,0,0,5,3,3,0,1,2,Not sure,0
+40,Kansha,24,HR,0,No,0,1,1,1,1,3,3,3,1,4,4,Yes,1
+41,Diya,24,Manager,0,No,1,1,0,0,0,4,5,4,1,2,4,Yes,1
+42,Rakesh,24,Engineer,1,No,0,0,0,0,0,3,4,2,1,1,4,Yes,0
+43,Vihaan,24,HR,1,No,0,0,0,1,0,2,1,2,1,1,5,No,0
+44,Sumaya,16,Recruiter,0,Yes,0,1,1,1,0,3,4,4,0,2,3,Not sure,0
+45,Aahan ,24,Manager,1,No,0,1,1,0,0,3,5,4,1,2,3,Not sure,0
+46,Aalia,24,Engineer,0,Yes,0,1,1,1,1,3,4,4,1,3,4,Not sure,1
+47,David,48,Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
+48,Ramya,16,Business,0,No,0,1,0,0,0,4,4,4,1,1,4,Yes,0
+49,Taarush ,16,Engineer,1,No,0,0,0,0,0,4,4,2,0,2,2,Not sure,0
+50,Pavita,24,Manager,0,Yes,0,1,1,1,1,3,3,5,0,3,4,No,0
+51,Samya,48,HR,0,Yes,1,1,1,1,1,2,3,4,0,4,3,Not sure,1
+52,Linda,40,Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
+53,Prisha ,24,Business,0,Yes,1,1,1,0,0,2,4,3,1,2,3,Yes,0
+54,Vinod,24,Marketing ,1,Yes,0,0,0,0,0,4,5,3,0,2,3,Yes,0
+55,Jake,48,Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
+56,Aamya ,24,Marketing ,0,Yes,0,1,1,1,1,1,1,5,1,5,4,Not sure,1
+57,Chaali ,40,Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
+58,Chetana,24,Engineer,0,Yes,1,1,1,0,0,2,3,3,1,4,5,Yes,1
+59,Amy,16,Tutor,1,No,0,0,0,0,1,3,3,3,0,3,3,No,1
+60,Pheobe,24,Engineer,0,Yes,0,1,1,0,0,3,2,4,0,3,5,Yes,0
+61,Ross,24,Marketing ,1,No,0,1,1,1,0,3,4,4,1,4,5,Yes,1
+62,Tonny,24,Engineer,1,No,0,1,0,1,0,3,3,3,1,4,3,Not sure,0
+63,Niali,24,HR,0,No,1,1,0,0,0,5,3,5,1,1,3,No,0
+64,Luke,24,Manager,1,Yes,0,0,0,0,0,2,4,3,0,2,5,Not sure,0
+65,Hiya,32,Engineer,0,Yes,1,1,1,1,1,4,1,5,1,3,3,Not sure,1
+66,Mathew,48,Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
+67,John,24,Marketing ,1,Yes,0,1,1,0,0,4,4,4,0,4,3,Not sure,0
+68,Sitaa,24,Marketing ,0,No,1,1,0,0,0,5,3,5,1,1,3,No,0
+69,Anaisha,16,Tutor,0,No,0,1,1,1,1,3,3,4,0,2,3,No,0
+70,Rita,32,Tutor,0,Yes,1,1,1,1,1,4,3,3,0,1,1,Not sure,0
+71,Shasha,24,Manager,0,No,0,1,0,0,0,4,3,3,1,3,1,Not sure,0
+72,supraja,40,Tutor,0,No,1,1,1,1,0,3,2,4,1,3,4,No,0
+73,Samuel,24,Engineer,1,No,0,1,1,1,0,2,4,3,0,2,4,Not sure,0
+74,Penny,24,HR,0,Yes,1,1,1,1,1,3,3,4,0,5,3,No,1
+75,Sam,24,Recruiter,1,Yes,0,0,1,0,0,3,3,5,1,4,2,Yes,1
+76,Rahul,24,Recruiter,1,No,0,1,1,1,1,3,3,3,0,3,5,Yes,0
+77,Sandy,24,Engineer,1,Yes,0,0,0,0,1,3,4,2,0,2,3,Not sure,1
+78,Ginny,32,Engineer,0,No,0,0,1,0,0,3,4,3,0,3,4,Not sure,0
+79,Daisy,40,Tutor,0,No,1,0,0,0,0,4,1,3,0,4,3,No,0
+80,Pretti,24,Recruiter,0,No,0,1,1,1,1,3,2,4,0,4,3,Not sure,1
+81,Sheetal,24,Engineer,0,Yes,0,1,1,0,0,4,4,4,0,4,4,Yes,0
+82,Saif,24,Engineer,1,No,0,1,1,1,1,4,3,4,0,3,4,Yes,1
+83,Teena,24,Business,0,No,0,1,1,1,1,1,2,3,1,5,3,Yes,1
+84,Ira,24,Recruiter,0,No,0,1,0,0,0,4,4,3,0,3,3,Not sure,0
+85,Sameera ,24,Business,0,Yes,0,1,1,0,0,4,4,4,0,4,4,Yes,0
+86,Asthon,24,Engineer,1,No,0,0,0,1,0,3,3,4,0,3,3,Yes,1
+87,Shahid,24,Recruiter,1,No,0,1,1,1,1,4,3,2,0,3,3,Not sure,0
+88,Aaryan,24,Business,1,No,0,0,1,0,0,1,5,2,0,3,5,Yes,0
+89,Namratha,24,Engineer,0,Yes,0,1,1,0,0,3,4,4,0,4,5,Yes,0
+90,Surya,24,Marketing ,1,Yes,0,1,0,0,0,4,3,4,1,2,5,Yes,1
+91,Ashvik ,32,Marketing ,1,Yes,1,0,1,0,0,2,1,3,0,3,2,No,0
+92,Kiya,24,Engineer,0,Yes,0,1,1,1,0,5,5,1,0,1,2,Not sure,0
+93,Larry,24,Tutor,1,No,0,0,0,0,1,2,2,2,0,3,3,No,1
+94,Singh ,24,Manager,1,Yes,0,0,0,0,0,2,4,3,0,2,5,Not sure,0
+95,Pari,24,Manager,1,No,0,1,1,1,1,3,3,4,1,4,4,No,1
+96,Aachal,40,Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
+97,Sujitha,32,Engineer,0,Yes,1,1,1,1,1,4,1,5,1,3,3,Not sure,1
+98,Sathyaraman,24,HR,1,Yes,0,1,1,0,0,2,4,5,1,4,4,Not sure,0
+99,Pinky,40,Tutor,0,Yes,1,1,1,1,1,5,1,5,1,5,5,Yes,1
+100,Lori,24,Marketing ,0,Yes,0,1,1,1,1,3,1,5,0,4,3,Not sure,1
+101,Monty,24,HR,1,No,0,1,1,0,0,2,4,3,0,5,3,Yes,0
+102,Darshan,24,Manager,1,No,0,0,0,0,0,5,1,3,1,1,3,Yes,1
+103,Sushmita,24,Manager,0,No,0,1,0,0,0,3,5,5,1,1,4,Not sure,0
+104,Shilpa,24,HR,0,Yes,0,1,1,1,1,1,1,5,1,5,4,Not sure,1
+105,Bhuv ,16,Marketing ,1,No,0,1,1,1,1,3,4,3,0,3,2,Not sure,0
+106,Ranjith,24,Recruiter,1,No,0,1,0,0,0,3,5,3,0,3,4,Not sure,0
+107,Shubam,24,Engineer,1,Yes,0,0,0,0,1,3,4,2,0,2,3,Not sure,1
+108,Ivaan,24,Manager,1,No,0,1,0,0,0,5,3,3,0,1,2,Not sure,0
+109,Akila,24,HR,0,No,0,1,1,1,1,3,3,3,1,4,4,Yes,1
+110,Rachel,24,Manager,0,No,1,1,0,0,0,4,5,4,1,2,4,Yes,1
+111,Ramesh,24,Engineer,1,No,0,0,0,0,0,3,4,2,1,1,4,Yes,0
+112,Vihaan,24,HR,1,No,0,0,0,1,0,2,1,2,1,1,5,No,0
+113,Sumaya,16,Recruiter,0,Yes,0,1,1,1,0,3,4,4,0,2,3,Not sure,0
+114,Amog,24,Manager,1,No,0,1,1,0,0,3,5,4,1,2,3,Not sure,0
+115,Anjita,24,Engineer,0,Yes,0,1,1,1,1,3,4,4,1,3,4,Not sure,1
+116,Sam,48,Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
+117,Raina,16,Business,0,No,0,1,0,0,0,4,4,4,1,1,4,Yes,0
+118,Taarush ,16,Engineer,1,No,0,0,0,0,0,4,4,2,0,2,2,Not sure,0
+119,Puri,24,Manager,0,Yes,0,1,1,1,1,3,3,5,0,3,4,No,0
+120,Samya,48,HR,0,Yes,1,1,1,1,1,2,3,4,0,4,3,Not sure,1
+121,Aarya,40,Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
+122,Renuka,24,Business,0,Yes,1,1,1,0,0,2,4,3,1,2,3,Yes,0
+123,Viraj ,24,Marketing ,1,Yes,0,0,0,0,0,4,5,3,0,2,3,Yes,0
+124,Jacob,48,Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
+125,Kakshi,24,Marketing ,0,Yes,0,1,1,1,1,1,1,5,1,5,4,Not sure,1
+126,Chaali ,24,Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
+127,Chandana,24,Engineer,0,Yes,1,1,1,0,0,2,3,3,1,4,5,Yes,1
+128,Ammy,16,Tutor,1,No,0,0,0,0,1,3,3,3,0,3,3,No,1
+129,Jill,24,Engineer,0,Yes,0,1,1,0,0,3,2,4,0,3,5,Yes,0
+130,Daniel,24,Marketing ,1,No,0,1,1,1,0,3,4,4,1,4,5,Yes,1
+131,Tim,24,Engineer,1,No,0,1,0,1,0,3,3,3,1,4,3,Not sure,0
+132,Roopa,24,HR,0,yes,1,1,0,0,0,5,3,5,1,1,3,No,0
+133,Harsh,24,Manager,1,Yes,0,0,0,0,0,2,4,3,0,2,5,Not sure,0
+134,Pooja,32,Engineer,0,Yes,1,1,1,1,1,4,1,5,1,3,3,Not sure,1
+135,Mark,48,Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
+136,Joseph,24,Marketing ,1,Yes,0,1,1,0,0,4,4,4,0,4,3,Not sure,0
+137,Sitaa,24,Marketing ,0,No,1,1,0,0,0,5,3,5,1,1,3,No,0
+138,Anmol,24,Tutor,0,No,0,1,1,1,1,3,3,4,0,2,3,No,0
+139,Isha,24,Business,0,No,0,1,0,0,0,4,4,3,0,3,3,Not sure,0
+140,Sammya,32,Engineer,0,No,0,0,1,0,0,3,4,3,0,3,4,Not sure,0
+141,Rathan,24,Recruiter,1,Yes,0,0,1,0,0,3,3,5,1,4,2,Yes,1
+142,Kareena,40,Tutor,0,Yes,1,1,1,1,1,5,1,5,1,5,5,Yes,1
+143,Hari,24,Tutor,1,No,0,0,0,0,1,2,2,2,0,3,3,No,1
+144,Anushula,48,HR,0,Yes,1,1,1,1,1,3,3,4,0,5,3,No,1
+145,Nametha,24,Engineer,0,Yes,0,1,1,0,0,3,4,4,0,4,5,Yes,0
+146,Raghu,24,Marketing ,1,Yes,0,0,0,0,0,4,5,3,0,2,3,Yes,0
+147,Rahul,40,HR,1,No,0,1,1,1,1,3,3,3,0,3,5,Yes,0
+148,Sandy,24,Engineer,1,Yes,0,0,0,0,1,3,4,2,0,2,3,Not sure,1
+149,Rayor,24,Engineer,1,No,0,1,1,1,0,2,4,3,0,2,4,Not sure,0
+150,Crystal,24,Recruiter,0,No,0,1,1,1,1,3,2,4,0,4,3,Not sure,1
+151,Sheetal,24,Engineer,0,Yes,0,1,1,0,0,4,4,4,0,4,4,Yes,0
+152,Ali,24,Engineer,1,No,0,1,1,1,1,4,3,4,0,3,4,Yes,1
+153,Rishabh,24,Business,1,No,0,1,1,1,1,1,2,3,1,5,3,Yes,1
+154,Sid,24,Engineer,1,No,0,0,0,1,0,3,3,4,0,3,3,Yes,1
+155,Shahid,24,Recruiter,1,No,0,1,1,1,1,4,3,2,0,3,3,Not sure,0
+156,Khan,24,Business,1,No,0,0,1,0,0,1,5,2,0,3,5,Yes,0
+157,Shelly,40,Tutor,0,No,1,0,0,0,0,4,1,3,0,4,3,No,0
+158,Surya,24,Marketing ,1,Yes,0,1,0,0,0,4,3,4,1,2,5,Yes,1
+159,Saif,40,Marketing ,1,Yes,1,0,1,0,0,2,1,3,0,3,2,No,0
+160,Kashmira,24,Engineer,0,Yes,0,1,1,1,0,5,5,1,0,1,2,Not sure,0
+161,Sangeetha,40,Tutor,0,No,1,1,1,1,0,3,2,4,1,3,4,No,0
+162,Jorden,24,Manager,1,Yes,0,0,0,0,0,2,4,3,0,2,5,Not sure,0
+163,Mala,24,Manager,1,No,0,1,1,1,1,3,3,4,1,4,4,No,1
+164,neha,24,Manager,0,Yes,0,1,1,1,1,3,3,5,0,3,4,No,0
+165,susan,48,HR,0,Yes,1,1,1,1,1,2,3,4,0,4,3,Not sure,1
+166,Priyanka,40,Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
+167,Deepika,24,Business,0,Yes,1,1,1,0,0,2,4,3,1,2,3,Yes,0
+168,Sameera ,24,Business,0,Yes,0,1,1,0,0,4,4,4,0,4,4,Yes,0
+169,Lekha,24,HR,0,Yes,0,1,1,1,1,3,1,5,0,4,3,Not sure,1
+170,Davis,24,HR,1,No,0,1,1,0,0,2,4,3,0,5,3,Yes,0
+171,Abhishek,24,Manager,1,No,0,0,0,0,0,5,1,3,1,1,3,Yes,1
+172,Sia,24,Manager,0,No,0,1,0,0,0,3,5,5,1,1,4,Not sure,0
+173,Shilpa,24,HR,0,Yes,0,1,1,1,1,1,1,5,1,5,4,Not sure,1
+174,Braddy,16,Marketing ,1,No,0,1,1,1,1,3,4,3,0,3,2,Not sure,0
+175,Keshew,24,Recruiter,1,No,0,1,0,0,0,3,5,3,0,3,4,Not sure,0
+176,Shubam,24,Engineer,1,Yes,0,0,0,0,1,3,4,2,0,2,3,Not sure,1
+177,Rishi,24,Manager,1,No,0,1,0,0,0,5,3,3,0,1,2,Not sure,0
+178,Aakansha,24,HR,0,No,0,1,1,1,1,3,3,3,1,4,4,Yes,1
+179,Monica,24,Manager,0,No,1,1,0,0,0,4,5,4,1,2,4,Yes,1
+180,Suresh,24,Engineer,1,No,0,0,0,0,0,3,4,2,1,1,4,Yes,0
+181,Vishal,24,HR,1,No,0,0,0,1,0,2,1,2,1,1,5,No,0
+182,Sumaya,16,Recruiter,0,Yes,0,1,1,1,0,3,4,4,0,2,3,Not sure,0
+183,Asim,24,Manager,1,No,0,1,1,0,0,3,5,4,1,2,3,Not sure,0
+184,Anita,24,Engineer,0,Yes,0,1,1,1,1,3,4,4,1,3,4,Not sure,1
+185,David,56,Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
+186,Sanjana,24,Business,0,No,0,1,0,0,0,4,4,4,1,1,4,Yes,0
+187,Raagiv,16,Engineer,1,No,0,0,0,0,0,4,4,2,0,2,2,Not sure,0
+188,Amala,40,Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
+189,Sujitha,32,Engineer,0,Yes,1,1,1,1,1,4,1,5,1,3,3,Not sure,1
+190,Rowling,24,HR,1,Yes,0,1,1,0,0,2,4,5,1,4,4,Not sure,0
+191,Shoba,32,Tutor,0,Yes,1,1,1,1,1,4,3,3,0,1,1,Not sure,0
+192,Rain,24,Manager,0,No,0,1,0,0,0,4,3,3,1,3,1,Not sure,0
+193,Ranveer,48,Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
+194,Lokiya,24,Marketing ,0,Yes,0,1,1,1,1,1,1,5,1,5,4,Not sure,1
+195,Charitha,40,Tutor,0,Yes,1,1,1,0,0,1,1,5,1,4,5,Yes,0
+196,Maria,24,Engineer,0,Yes,1,1,1,0,0,2,3,3,1,4,5,Yes,1
+197,Jhanvi,16,Tutor,1,No,0,0,0,0,1,3,3,3,0,3,3,No,1
+198,Mandana,24,Engineer,0,Yes,0,1,1,0,0,3,2,4,0,3,5,Yes,0
+199,Chandler,24,Marketing ,1,No,0,1,1,1,0,3,4,4,1,4,5,Yes,1
+200,Ranvijay,24,Engineer,1,No,0,1,0,1,0,3,3,3,1,4,3,Not sure,0
+201,Rekha,24,HR,0,No,1,1,0,0,0,5,3,5,1,1,3,No,0
+202,Louis,24,Manager,1,Yes,0,0,0,0,0,2,4,3,0,2,5,Not sure,0
+203,Nandini,32,Engineer,0,Yes,1,1,1,1,1,4,1,5,1,3,3,Not sure,1
+204,Matt,48,Business,1,Yes,1,1,1,1,1,4,4,4,1,5,3,No,1
+205,Rithik,16,Marketing ,1,Yes,0,1,1,0,0,4,4,4,0,4,3,Not sure,0
+206,Radha,24,Marketing ,0,No,1,1,0,0,0,5,3,5,1,1,3,No,0
+207,Anaisha,16,Tutor,0,No,0,1,1,1,1,3,3,4,0,2,3,No,0
