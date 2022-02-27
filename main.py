@@ -40,7 +40,7 @@ def splitdataset(balance_data,col_no):
 
 
 # Function to perform training with giniIndex.
-def train_using_gini(X_train, X_test, y_train):
+def train_using_gini(X_train, y_train):
     # Creating the classifier object
     clf_gini = DecisionTreeClassifier(criterion="gini",
                                       random_state=100, max_depth=3, min_samples_leaf=5)
@@ -50,8 +50,8 @@ def train_using_gini(X_train, X_test, y_train):
     return clf_gini
 
 
-# Function to perform training with entropy.
-def tarin_using_entropy(X_train, X_test, y_train):
+# Function to perform training using entropy.
+def train_using_entropy(X_train, y_train):
     # Decision tree with entropy
     clf_entropy = DecisionTreeClassifier(
         criterion="entropy", random_state=100,
@@ -73,19 +73,19 @@ def prediction(X_test, clf_object):
 
 # Function to calculate accuracy
 def cal_accuracy(y_test, y_pred):
-    print("Confusion Matrix: ",
+    print("Confusion Matrix:",
           confusion_matrix(y_test, y_pred))
 
-    print("Accuracy : ",
+    print("Accuracy:",
           accuracy_score(y_test, y_pred) * 100)
 
-    print("Report : ",
+    print("Classification Report:",
           classification_report(y_test, y_pred))
 
 def train_for_Question(data,column_no):
     X, Y, X_train, X_test, y_train, y_test = splitdataset(data,column_no)
-    clf_gini = train_using_gini(X_train, X_test, y_train)
-    clf_entropy = tarin_using_entropy(X_train, X_test, y_train)
+    clf_gini = train_using_gini(X_train, y_train)
+    clf_entropy = train_using_entropy(X_train, y_train)
 
     # Operational Phase
     print("Results Using Gini Index:")
