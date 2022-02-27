@@ -1,2 +1,2 @@
-# WikiHacks
+# WiCHacks
 WFH Effect on Mental health
