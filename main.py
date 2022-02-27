@@ -1,4 +1,5 @@
 
+
 # Importing the required packages
 import warnings
 warnings.filterwarnings('ignore')
@@ -50,16 +51,6 @@ def train_using_gini(X_train, y_train):
     return clf_gini
 
 
-# Function to perform training using entropy.
-def train_using_entropy(X_train, y_train):
-    # Decision tree with entropy
-    clf_entropy = DecisionTreeClassifier(
-        criterion="entropy", random_state=100,
-        max_depth=3, min_samples_leaf=5)
-
-    # Performing training
-    clf_entropy.fit(X_train, y_train)
-    return clf_entropy
 
 
 # Function to make predictions
@@ -85,7 +76,6 @@ def cal_accuracy(y_test, y_pred):
 def train_for_Question(data,column_no):
     X, Y, X_train, X_test, y_train, y_test = splitdataset(data,column_no)
     clf_gini = train_using_gini(X_train, y_train)
-    clf_entropy = train_using_entropy(X_train, y_train)
 
     # Operational Phase
     print("Results Using Gini Index:")
@@ -94,10 +84,6 @@ def train_for_Question(data,column_no):
     y_pred_gini = prediction(X_test, clf_gini)
     cal_accuracy(y_test, y_pred_gini)
 
-    print("Results Using Entropy:")
-    # Prediction using entropy
-    y_pred_entropy = prediction(X_test, clf_entropy)
-    cal_accuracy(y_test, y_pred_entropy)
 
 # Driver code
 def main():
@@ -126,3 +112,4 @@ def get_correlation_matrix(data, df):
     sn.heatmap(corrMatrix, annot=True)
     plt.title("Heatmap for India Combined Data")
     plt.show()
+
